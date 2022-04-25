@@ -1,0 +1,115 @@
+{
+  "configVersion": 1,
+  "timestamp": 1650918053645,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.619dfb65e645097c.js",
+        "/manifest.webmanifest",
+        "/polyfills.c123e7c3ef8e2618.js",
+        "/runtime.cd0de3bf80e747fc.js",
+        "/scripts.abbb37f329463b12.js",
+        "/styles.48206ceaec7ace97.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/assets/arjs/aframe-ar-nft.js",
+        "/assets/arjs/aframe.min.js",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/trex/scene.bin",
+        "/assets/trex/scene.gltf",
+        "/assets/trex/textures/Material_21_baseColor.png",
+        "/assets/trex/textures/Material_21_normal.png",
+        "/assets/trex/textures/Material_22_baseColor.png",
+        "/assets/trex/textures/Material_22_normal.png",
+        "/assets/trex/textures/Scene_-_Root_diffuse.jpeg",
+        "/assets/trex/textures/Scene_-_Root_normal.png",
+        "/assets/trex/trex-image/trex.fset",
+        "/assets/trex/trex-image/trex.fset3",
+        "/assets/trex/trex-image/trex.iset",
+        "/assets/videos/videos.zip",
+        "/bootstrap-icons.51e2826a5e883791.woff",
+        "/bootstrap-icons.988b20fa812f3498.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/arjs/aframe-ar-nft.js": "c1395a0967bb61aa616326046ca1f012210d7d86",
+    "/assets/arjs/aframe.min.js": "3d2f553eda5dca3545520c80f974c7cbdd732342",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/trex/scene.bin": "106204f483a80e65b4dd5c0d09da9c80d153df77",
+    "/assets/trex/scene.gltf": "2cd1315ee2707874189167f7eec3d5f2851aa0e3",
+    "/assets/trex/textures/Material_21_baseColor.png": "1029ddb10bb3a1a10b81ededbdb58826b48e3d49",
+    "/assets/trex/textures/Material_21_normal.png": "ab5637b5591b646228dc64af79427dba7d10f50d",
+    "/assets/trex/textures/Material_22_baseColor.png": "01116d6b56b19341219c5a9e25d6dc7e087f51c5",
+    "/assets/trex/textures/Material_22_normal.png": "d93341c235fdc30e5ecbfbacbc243a9a84567d4c",
+    "/assets/trex/textures/Scene_-_Root_diffuse.jpeg": "c5f7222bdbe4c9cc95e5819653d4865519a8e471",
+    "/assets/trex/textures/Scene_-_Root_normal.png": "5cb6c41cb9f0d802d15f283acf10bb169ed59172",
+    "/assets/trex/trex-image/trex.fset": "4d0631369756a7e7afd779d61dae18d7f8db09db",
+    "/assets/trex/trex-image/trex.fset3": "efad9754847754dcda982736fd27ec163958293f",
+    "/assets/trex/trex-image/trex.iset": "453402556a2e35f04909c42f3bd45af9f50922ce",
+    "/assets/videos/videos.zip": "6b6648fb104e356006294f00d872674443156c9c",
+    "/bootstrap-icons.51e2826a5e883791.woff": "36952dbeb50a08a17d0dba69fa9cccde990ed10d",
+    "/bootstrap-icons.988b20fa812f3498.woff2": "1ca5e8c7d2fb8e9d60ad1a1feb2a46e98c248a3d",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "842fe1a424f2ed4af27ab65e4fc37430b14229dd",
+    "/main.619dfb65e645097c.js": "cd12d137be765947563ea01ab9f512f94350c04e",
+    "/manifest.webmanifest": "fbbb509823ff9982f1f8b174de01aabe21b32ca5",
+    "/polyfills.c123e7c3ef8e2618.js": "7772af857fa8c8a2e8a7408101cb1b668c2deee2",
+    "/runtime.cd0de3bf80e747fc.js": "149005fba72b90e2d263db670e07c6a3442c6e19",
+    "/scripts.abbb37f329463b12.js": "eba40429fd9617ef06d2246bc07c19352b0d8dde",
+    "/styles.48206ceaec7ace97.css": "83cf746fcb57ba0944e7a2f52f87346911fa8036"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
